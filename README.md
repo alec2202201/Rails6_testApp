@@ -5,6 +5,10 @@ application up and running.
 
 Things you may want to cover:
 
+* Updated the rails app within visual studio 
+
+* Github setup to work with rails app
+
 * Ruby version
 
 * System dependencies
